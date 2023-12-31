@@ -1,0 +1,32 @@
+---
+title: "John Kubale"
+about: 
+  template: trestles
+  image: "pics/JohnK_Headshot.jpg"
+  links: 
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/JKubale
+    - icon: github
+      text: Github
+      href: https://github.com/jkubale
+    - icon: journal-text
+      text: Publications
+      href: https://scholar.google.com/citations?user=9YDzqIUAAAAJ&hl=en&oi=ao
+    - icon: envelope
+      text: Email
+      href: mailto:jkubale@umich.edu
+      
+---
+
+## Bio
+
+I'm a Research Assistant Professor at the University of Michigan's Institute for Social Research where I lead the Social, Behavioral, and Economic COVID-19 Coordinating Center [(SBE CCC)](https://www.icpsr.umich.edu/web/pages/sbeccc/). My research focuses on respiratory viruses particularly SARS-CoV-2, respiratory syncytial virus (RSV) and influenza. Specifically, I am interested in exploring the social, biological, and environmental drivers of severe respiratory illness associated with these pathogens.
+
+## Education
+
+PhD in Epidemiology, 2020 \| **University of Michigan**
+
+MPH in Epidemiology, 2017 \| **University of Michigan**
+
+B.A. Liberal Arts, 2011 \| **Xavier University**

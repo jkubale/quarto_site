@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "John Kubale"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: "docs/Kubale_CV_dec_2023.pdf"
+        text: CV
+      # - href: pubs.qmd
+      #   text: Publications
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+editor: visual
+
