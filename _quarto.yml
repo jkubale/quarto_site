@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "John Kubale"
@@ -9,8 +10,8 @@ website:
         text: Home
       - href: "docs/Kubale_CV_dec_2023.pdf"
         text: CV
-      # - href: pubs.qmd
-      #   text: Publications
+      - href: pubs.qmd
+        text: Publications
 
 format:
   html:

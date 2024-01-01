@@ -26,5 +26,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "pubs.html",
+    "href": "pubs.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Assessing the Incidence of Symptomatic Respiratory Syncytial Virus Illness Within a Prospective Birth Cohort in Managua, Nicaragua\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pubs/CID_RSV.html",
+    "href": "pubs/CID_RSV.html",
+    "title": "Assessing the Incidence of Symptomatic Respiratory Syncytial Virus Illness Within a Prospective Birth Cohort in Managua, Nicaragua",
+    "section": "",
+    "text": "[pdf](here::here(“docs/kubale_cidrsv2020.pdf”){.btn .btn-outline-primary .btn role=“button” data-toggle=“tooltip” title=“Open pdf”}\n\n{r} # getwd() #  # list.files(here::here(\"docs/kubale_cidrsv2020.pdf\"))"
+  },
+  {
+    "objectID": "pubs/CID_RSV/index.html",
+    "href": "pubs/CID_RSV/index.html",
+    "title": "Assessing the Incidence of Symptomatic Respiratory Syncytial Virus Illness Within a Prospective Birth Cohort in Managua, Nicaragua",
+    "section": "",
+    "text": "PubMed PDF"
   }
 ]
