@@ -1,0 +1,9 @@
+---
+title: "Publications" 
+listing:    
+  contents: projects   
+  type: default   
+  fields: [author, date, title, image]   
+  sort-ui: true   
+  sort: "date desc" 
+---

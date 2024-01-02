@@ -12,6 +12,8 @@ website:
         text: CV
       - href: pubs.qmd
         text: Publications
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:
