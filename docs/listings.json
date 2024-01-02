@@ -3,7 +3,9 @@
     "listing": "/pubs.html",
     "items": [
       "/pubs/CID_RSV/index.html",
-      "/pubs/jama_covid/index.html"
+      "/pubs/jama_covid/index.html",
+      "/pubs/ofid_ftd/index.html",
+      "/pubs/CID_pneumo/index.html"
     ]
   }
 ]

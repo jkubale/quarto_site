@@ -1,0 +1,13 @@
+---
+author: Kubale, J et al.
+date: 2021-12-1
+title: "Individual-level Association of Influenza Infection With Subsequent Pneumonia: A Case-control and Prospective Cohort Study"
+image: "Figure3_V2.png"
+---
+
+::: column-body-outset
+:::
+
+::: column-body-outset
+[<button type="button" class="btn btn-outline-dark mb-2">PubMed</button>](https://pubmed.ncbi.nlm.nih.gov/32717069/) [<button type="button" class="btn btn-outline-dark mb-2">PDF</button>](kubale_cidpneumo2020.pdf)
+:::
