@@ -5,8 +5,6 @@ title: "Etiology of Acute Lower Respiratory Illness Hospitalizations Among Infan
 image: "figure3.png"
 ---
 
-::: column-body-outset
-:::
 
 ::: column-body-outset
 [<button type="button" class="btn btn-outline-dark mb-2">PubMed</button>](https://pubmed.ncbi.nlm.nih.gov/38130597/) [<button type="button" class="btn btn-outline-dark mb-2">PDF</button>](ofid_ftd.pdf)

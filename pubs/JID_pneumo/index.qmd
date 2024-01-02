@@ -1,0 +1,10 @@
+---
+author: Kubale, J et al.
+date: 2021-8-16
+title: "Pneumonia Following Symptomatic Influenza Infection Among Nicaraguan Children Before and After Introduction of the Pneumococcal Conjugate Vaccine"
+image: "flu_season_panel3.png"
+---
+
+::: column-body-outset
+[<button type="button" class="btn btn-outline-dark mb-2">PubMed</button>](https://pubmed.ncbi.nlm.nih.gov/33351091/) [<button type="button" class="btn btn-outline-dark mb-2">PDF</button>](kubale_jid2020.pdf)
+:::

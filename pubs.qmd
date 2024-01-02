@@ -4,4 +4,6 @@ listing:
   contents: pubs
   type: default
   fields: [author, date, title, image]
+  sort-ui: true
+  sort: "date desc"
 ---

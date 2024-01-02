@@ -1,0 +1,8 @@
+---
+author: Kubale, J et al. 
+date: 2022-11-28 
+title: "High Co-circulation of Influenza and Severe Acute Respiratory Syndrome Coronavirus 2" 
+image: "season_panel.png"
+---
+
+[<button type="button" class="btn btn-outline-dark mb-2">PubMed</button>](https://pubmed.ncbi.nlm.nih.gov/36519125/) [<button type="button" class="btn btn-outline-dark mb-2">PDF</button>](kubale_flucovid_ofid.pdf)

@@ -1,0 +1,10 @@
+---
+author: Kubale, J et al.
+date: 2016-10-31
+title: "Analyses of infectious disease patterns and drivers largely lack insights from social epidemiology: contemporary patterns and future opportunities"
+image: "Figure 3B.png"
+---
+
+::: column-body-outset
+[<button type="button" class="btn btn-outline-dark mb-2">PubMed</button>](https://pubmed.ncbi.nlm.nih.gov/27799618/) [<button type="button" class="btn btn-outline-dark mb-2">PDF</button>](kubale_jech2016.pdf)
+:::

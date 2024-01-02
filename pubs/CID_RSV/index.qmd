@@ -5,10 +5,8 @@ title: "Assessing the Incidence of Symptomatic Respiratory Syncytial Virus Illne
 image: "Severity_plot3a.png"
 ---
 
-:::{.column-body-outset}
 
-:::
 
-:::{.column-body-outset}
+::: column-body-outset
 [<button type="button" class="btn btn-outline-dark mb-2">PubMed</button>](https://pubmed.ncbi.nlm.nih.gov/31257406/) [<button type="button" class="btn btn-outline-dark mb-2">PDF</button>](kubale_cidrsv2020.pdf)
 :::

@@ -2,10 +2,14 @@
   {
     "listing": "/pubs.html",
     "items": [
-      "/pubs/CID_RSV/index.html",
-      "/pubs/jama_covid/index.html",
       "/pubs/ofid_ftd/index.html",
-      "/pubs/CID_pneumo/index.html"
+      "/pubs/OFID_covid_flu/index.html",
+      "/pubs/OFID_rsv/index.html",
+      "/pubs/jama_covid/index.html",
+      "/pubs/CID_pneumo/index.html",
+      "/pubs/JID_pneumo/index.html",
+      "/pubs/CID_RSV/index.html",
+      "/pubs/JECH_social_id/index.html"
     ]
   }
 ]

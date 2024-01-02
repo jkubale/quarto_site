@@ -1,0 +1,10 @@
+---
+author: Kubale, J et al.
+date: 2022-11-8
+title: "Respiratory Syncytial Virus Incidence and Severity in a Community-Based Prospective Cohort of Children Aged 0-14 Years"
+image: "figure2.png"
+---
+
+::: column-body-outset
+[<button type="button" class="btn btn-outline-dark mb-2">PubMed</button>](https://pubmed.ncbi.nlm.nih.gov/36447616/) [<button type="button" class="btn btn-outline-dark mb-2">PDF</button>](smith_kubale_rsv_ofid.pdf)
+:::
