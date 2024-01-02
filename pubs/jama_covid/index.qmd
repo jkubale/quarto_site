@@ -1,0 +1,13 @@
+---
+author: Kubale, J et al.
+date: 2022-06-27
+title: "Association of SARS-CoV-2 Seropositivity and Symptomatic Reinfection in Children in Nicaragua"
+image: "titer_sbs.svg"
+---
+
+::: column-body-outset
+:::
+
+::: column-body-outset
+[<button type="button" class="btn btn-outline-dark mb-2">PubMed</button>](https://pubmed.ncbi.nlm.nih.gov/35759261/) [<button type="button" class="btn btn-outline-dark mb-2">PDF</button>](kubale_2022_jama.pdf)
+:::

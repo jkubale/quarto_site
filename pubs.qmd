@@ -3,4 +3,5 @@ title: "Publications"
 listing: 
   contents: pubs
   type: default
+  fields: [author, date, title, image]
 ---

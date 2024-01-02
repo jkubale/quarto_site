@@ -2,9 +2,7 @@
 author: Kubale, J et al.
 date: 2019-06-19
 title: "Assessing the Incidence of Symptomatic Respiratory Syncytial Virus Illness Within a Prospective Birth Cohort in Managua, Nicaragua"
-description: ""
 image: "Severity_plot3a.png"
-fig-height: 600
 ---
 
 :::{.column-body-outset}
