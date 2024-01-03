@@ -1,0 +1,47 @@
+{
+  "index.qmd": {
+    "index.html": "57041672"
+  },
+  "about.qmd": {
+    "about.html": "ed90925e"
+  },
+  "pubs.qmd": {
+    "pubs.html": "b183ba0d"
+  },
+  "slides.qmd": {
+    "slides.html": "722ba087"
+  },
+  "pubs/CID_RSV.qmd": {
+    "CID_RSV.html": "e12204b3"
+  },
+  "pubs/CID_RSV/index.qmd": {
+    "index.html": "5fef4ba5"
+  },
+  "pubs/jama_covid/index.qmd": {
+    "index.html": "529c4345"
+  },
+  "pubs/CID_pneumo/index.qmd": {
+    "index.html": "434757ef"
+  },
+  "pubs/JECH_social_id/index.qmd": {
+    "index.html": "d50714d3"
+  },
+  "pubs/JID_pneumo/index.qmd": {
+    "index.html": "134ea9dd"
+  },
+  "pubs/ofid_ftd/index.qmd": {
+    "index.html": "e6a9b989"
+  },
+  "pubs/OFID_rsv/index.qmd": {
+    "index.html": "c594dff1"
+  },
+  "pubs/OFID_covid_flu/index.qmd": {
+    "index.html": "945513e3"
+  },
+  "projects.qmd": {
+    "projects.html": "47510e31"
+  },
+  "projects/ols/index.qmd": {
+    "index.html": "e2db5ae1"
+  }
+}
