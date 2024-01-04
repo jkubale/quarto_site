@@ -13,9 +13,10 @@ draft: true
 ```{shinylive-r}
 #| standalone: true
 #| viewerHeight: 750
-
+#| viewerWidth: 900
 
 library(ggplot2)
+library(shiny)
 
 set.seed(894)
 
