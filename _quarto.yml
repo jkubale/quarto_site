@@ -12,7 +12,7 @@ website:
         text: CV
       - href: pubs.qmd
         text: Publications
-      - href: "projects/index.html"
+      - href: "test/index.html"
         text: Projects
 
 format:
