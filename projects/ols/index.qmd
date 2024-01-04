@@ -9,7 +9,6 @@ date: 2023-8-25
 image: app_pic.png
 filters:
   - shinylive
-draft: false
 ---
 
 
