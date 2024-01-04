@@ -1,9 +1,6 @@
 ---
 title: "OLS Shiny App"
-format: 
-  html:
-     resources: 
-      - shinylive-sw.js
+format: html
 author: John Kubale
 date: 2023-8-25
 image: app_pic.png
