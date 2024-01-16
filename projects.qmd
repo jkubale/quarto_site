@@ -1,9 +1,26 @@
 ---
 title: "Projects" 
-listing:    
+listing: 
+  id: landing-projects
   contents: projects   
-  type: default   
+  type: grid
+  max-items: 6
+  grid-columns: 3   
   fields: [author, date, title, image]   
   sort-ui: true   
   sort: "date desc" 
 ---
+
+
+:::::{.grid}
+::::{.g-col-12 .g-col-md-6 .animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}
+## Projects
+Click [here](projects/ols/index.html).
+
+:::{#landing-projects}
+  :::
+
+
+
+::::
+:::::
