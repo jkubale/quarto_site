@@ -43,5 +43,8 @@
   },
   "projects/ols/index.qmd": {
     "index.html": "e2db5ae1"
+  },
+  "projects/test_qmd_shinylive/index.qmd": {
+    "index.html": "ad999ddb"
   }
 }
