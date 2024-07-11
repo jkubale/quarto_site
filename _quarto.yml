@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: "Kubale_CV_dec_2023.pdf"
+      - href: "Kubale_CV_july_2024.pdf"
         text: CV
       - href: pubs.qmd
         text: Publications
